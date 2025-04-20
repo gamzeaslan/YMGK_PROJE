@@ -127,7 +127,7 @@ public class cicek_ekle : MonoBehaviour
 ## Geliştirici
 - Gamze Aslan
 - Fırat Üniversitesi – Yazılım Mühendisliği
-- GitHub: github.com/kullaniciadi
+- GitHub: github.com/gamzeaslan
 
 ## Lisans
 - Bu proje bireysel bir eğitim projesidir.
