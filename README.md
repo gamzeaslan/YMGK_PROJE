@@ -70,21 +70,41 @@ Assets/ ├── Scenes/ │ └── MainScene.unity ├── Models/ │ �
 ```csharp
 using UnityEngine;
 
-public class FlowerPlacer : MonoBehaviour
+public class cicek_ekle : MonoBehaviour
 {
-    public GameObject flowerPrefab;  // Sahneye eklenecek çiçek modeli
-    public Transform plantPoint;     // Çiçeğin çıkacağı sabit nokta
+    public GameObject flowerPrefab;
+    public Camera arCamera;
 
     void Update()
     {
-        // Eğer kullanıcı ekrana dokunduysa ve bu ilk temassa
+#if UNITY_EDITOR
+        // Editörde test için: Mouse tıklaması
+        if (Input.GetMouseButtonDown(0))
+        {
+            Ray ray = arCamera.ScreenPointToRay(Input.mousePosition);
+            RaycastHit hit;
+
+            if (Physics.Raycast(ray, out hit))
+            {
+                Instantiate(flowerPrefab, hit.point, Quaternion.identity);
+            }
+        }
+#else
+        // Gerçek cihazda dokunma için
         if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)
         {
-            // Çiçek prefab'ını sahneye yerleştir
-            Instantiate(flowerPrefab, plantPoint.position, Quaternion.identity);
+            Ray ray = arCamera.ScreenPointToRay(Input.GetTouch(0).position);
+            RaycastHit hit;
+
+            if (Physics.Raycast(ray, out hit))
+            {
+                Instantiate(flowerPrefab, hit.point, Quaternion.identity);
+            }
         }
+#endif
     }
 }
+
 ```
 
 
