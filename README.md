@@ -41,7 +41,7 @@ Gerçek dünya taraması yapılmaz, sabit ve sade bir sahne içerisinde etkileş
 
 Uygulamayı test etmek isterseniz aşağıdaki bağlantıdan indirip Android cihazınıza kurabilirsiniz:
 
-👉 **[AR Uçak Bahçesi APK'sını Buradan İndirin]([https://drive.google.com/file/d/1A2B3C4D5E6F7G8H9I0J/view?usp=sharing](https://drive.google.com/drive/folders/1_0MsRg7OLET1hZLb7BtQCeWBhKAFATiH?usp=drive_link))**
+👉 **[AR Uçak Bahçesi APK'sını Buradan İndirin](https://drive.google.com/drive/folders/1_0MsRg7OLET1hZLb7BtQCeWBhKAFATiH?usp=drive_link)**
 
 > 📌 Not: Bu bağlantıyı kendi Google Drive linkinle değiştir.  
 > Örnek: `https://drive.google.com/file/d/[DOSYA_ID]/view?usp=sharing`
