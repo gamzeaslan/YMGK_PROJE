@@ -65,7 +65,8 @@ Assets/ ├── Scenes/ │ └── MainScene.unity ├── Models/ │ �
 ##  Proje Kodu
 
 ---
-###  Ana Kod – FlowerPlacer.cs
+###  Ana Kod – FlowerPlacer.cs : Repo içerisinde YMGK_PROJE/Code
+/GardenAR.sln altında bulunmaktadır
 
 ```csharp
 using UnityEngine;
