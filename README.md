@@ -43,8 +43,7 @@ Uygulamayı test etmek isterseniz aşağıdaki bağlantıdan indirip Android cih
 
 👉 **[AR Uçak Bahçesi APK'sını Buradan İndirin](https://drive.google.com/drive/folders/1_0MsRg7OLET1hZLb7BtQCeWBhKAFATiH?usp=drive_link)**
 
-> 📌 Not: Bu bağlantıyı kendi Google Drive linkinle değiştir.  
-> Örnek: `https://drive.google.com/file/d/[DOSYA_ID]/view?usp=sharing`
+
 
 ---
 
