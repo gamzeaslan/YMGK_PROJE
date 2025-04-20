@@ -66,16 +66,15 @@ Assets/ ├── Scenes/ │ └── MainScene.unity ├── Models/ │ �
 ## 🗂️ Proje Kodu
 
 ---
+### 📄 Ana Kod – FlowerPlacer.cs
 
-## 📄 Ana Kod – FlowerPlacer.cs
-
-csharp
+```csharp
 using UnityEngine;
 
 public class FlowerPlacer : MonoBehaviour
 {
-    public GameObject flowerPrefab;        // Sahneye eklenecek çiçek modeli
-    public Transform plantPoint;           // Çiçeğin çıkacağı sabit nokta
+    public GameObject flowerPrefab;  // Sahneye eklenecek çiçek modeli
+    public Transform plantPoint;     // Çiçeğin çıkacağı sabit nokta
 
     void Update()
     {
@@ -87,6 +86,8 @@ public class FlowerPlacer : MonoBehaviour
         }
     }
 }
+```
+
 
 ##  Kod Aciklamasi
 
