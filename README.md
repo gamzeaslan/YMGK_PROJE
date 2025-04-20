@@ -1,7 +1,7 @@
 # YMGK_PROJE
 # AR Uçak Bahçesi – Çocuklar İçin Artırılmış Gerçeklik Oyunu
 
-## 📖 Proje Hakkında
+## Proje Hakkında
 
 AR Uçak Bahçesi, 5-12 yaş arası çocuklar için tasarlanmış bir mobil artırılmış gerçeklik (AR) oyunudur.  
 Çocuklar, sabit bir uçak kabini ortamında sanal olarak çiçek dikerek doğayı tanır ve çevresel farkındalık kazanır.  
@@ -9,7 +9,7 @@ Gerçek dünya taraması yapılmaz, sabit ve sade bir sahne içerisinde etkileş
 
 ---
 
-## 🎯 Özellikler
+##  Özellikler
 
 - Sabit uçak kabini ortamında AR deneyimi  
 - Dokunmatik ekranla çiçek dikme  
@@ -19,7 +19,7 @@ Gerçek dünya taraması yapılmaz, sabit ve sade bir sahne içerisinde etkileş
 
 ---
 
-## 👥 Hedef Kitle
+##  Hedef Kitle
 
 - 5–12 yaş aralığındaki çocuklar  
 - Eğitimde teknoloji kullanan öğretmenler ve ebeveynler  
@@ -27,7 +27,7 @@ Gerçek dünya taraması yapılmaz, sabit ve sade bir sahne içerisinde etkileş
 
 ---
 
-## 📲 Kurulum ve Kullanım
+##  Kurulum ve Kullanım
 
 1. APK dosyasını indir (aşağıda)  
 2. Android cihazına yükle  
@@ -37,7 +37,7 @@ Gerçek dünya taraması yapılmaz, sabit ve sade bir sahne içerisinde etkileş
 
 ---
 
-## 📦 APK Dosyası
+##  APK Dosyası
 
 Uygulamayı test etmek isterseniz aşağıdaki bağlantıdan indirip Android cihazınıza kurabilirsiniz:
 
@@ -56,16 +56,16 @@ Uygulamayı test etmek isterseniz aşağıdaki bağlantıdan indirip Android cih
 
 ---
 
-## 🗂️ Proje Yapısı
+##  Proje Yapısı
 
 Assets/ ├── Scenes/ │ └── MainScene.unity ├── Models/ │ └── a_detail_airplane_cabin.glb ├── Prefabs/ │ └── flowerPrefab ├── Scripts/ │ └── FlowerPlacer.cs
 
 
 
-## 🗂️ Proje Kodu
+##  Proje Kodu
 
 ---
-### 📄 Ana Kod – FlowerPlacer.cs
+###  Ana Kod – FlowerPlacer.cs
 
 ```csharp
 using UnityEngine;
