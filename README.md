@@ -37,7 +37,7 @@ Gerçek dünya taraması yapılmaz, sabit ve sade bir sahne içerisinde etkileş
 
 ---
 
-##  APK Dosyası
+##  APK Dosyası ve Video
 
 Uygulamayı test etmek isterseniz aşağıdaki bağlantıdan indirip Android cihazınıza kurabilirsiniz:
 
