@@ -37,12 +37,14 @@ Gerçek dünya taraması yapılmaz, sabit ve sade bir sahne içerisinde etkileş
 
 ---
 
-##  APK Dosyası ve Video
+##  APK Dosyası, Video ve Web Sitesi
 
 Uygulamayı test etmek isterseniz aşağıdaki bağlantıdan indirip Android cihazınıza kurabilirsiniz:
 
 👉 **[AR Uçak Bahçesi APK'sını Buradan İndirin](https://drive.google.com/drive/folders/1_0MsRg7OLET1hZLb7BtQCeWBhKAFATiH?usp=drive_link)**
+
 👉 **[Projenin Tanıtım Videosuna Buradan Ulaşabilirsiniz](https://drive.google.com/drive/folders/1_0MsRg7OLET1hZLb7BtQCeWBhKAFATiH?usp=drive_link)**
+
 👉 **[Uygulamanın Web Sitesine Buradan Ulaşabilirsiniz](https://sites.google.com/view/skygarden8/ana-sayfa)**
 
 
