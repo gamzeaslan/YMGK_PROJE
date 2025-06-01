@@ -63,7 +63,15 @@ Uygulamayı test etmek isterseniz aşağıdaki bağlantıdan indirip Android cih
 
 ##  Proje Yapısı
 
-Assets/ ├── Scenes/ │ └── MainScene.unity ├── Models/ │ └── a_detail_airplane_cabin.glb ├── Prefabs/ │ └── flowerPrefab ├── Scripts/ │ └── FlowerPlacer.cs
+Assets/
+├── Scenes/ 
+    │ └── MainScene.unity 
+├── Models/ 
+    │ └── a_detail_airplane_cabin.glb
+├── Prefabs/ 
+    │ └── flowerPrefab 
+├── Scripts/ 
+    │ └── FlowerPlacer.cs
 
 
 
